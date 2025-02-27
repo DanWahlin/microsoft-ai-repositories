@@ -21,14 +21,17 @@ Repositories focused on creating content using generative AI models.
 | Repository | Description | Primary Language | Technology |
 |------------|-------------|------------------|------------|
 | [Generative-AI-For-Beginners](https://github.com/Microsoft/Generative-AI-For-Beginners) | Tutorials covering generative AI concepts and implementation. | Python | Azure OpenAI Service |
+| [openai-dotnet-samples](https://github.com/Azure-Samples/openai-dotnet-samples) | Samples for OpenAI in .NET, including specialized applications. | C# | Azure OpenAI Service |
 | [phi-3cookbook](https://github.com/Microsoft/phi-3cookbook) | Demonstrates using the Phi-3 AI model for generative tasks. | Python | - |
 
-### Semantic Search
+### RAG (Retrieval-Augmented Generation)
 
-Repositories demonstrating AI-driven search capabilities, often with Azure Cognitive Search.
+Repositories demonstrating AI-driven search RAG capabilities, often with Azure AI Search.
 
 | Repository | Description | Primary Language | Technology |
 |------------|-------------|------------------|------------|
+| [aisearch-openai-rag-audio](https://github.com/Azure-Samples/aisearch-openai-rag-audio) | Demonstrates audio search using AI and RAG techniques. | Python | Azure Cognitive Services, Azure OpenAI Service |
+| [azure-openai-rag-workshop](https://github.com/Azure-Samples/azure-openai-rag-workshop) | Workshop to build a RAG application using Azure OpenAI. | Python | Azure OpenAI Service |
 | [azure-search-openai-demo](https://github.com/Azure-Samples/azure-search-openai-demo) | Demonstrates semantic search with Azure Cognitive Search and Azure OpenAI. | Python | Azure Cognitive Search, Azure OpenAI Service |
 | [azure-search-openai-demo-csharp](https://github.com/azure-samples/azure-search-openai-demo-csharp) | Semantic search with Azure Cognitive Search and Azure OpenAI in C#. | C# | Azure Cognitive Search, Azure OpenAI Service |
 | [azure-search-openai-demo-java](https://github.com/Azure-Samples/azure-search-openai-demo-java) | Semantic search with Azure Cognitive Search and Azure OpenAI in Java. | Java | Azure Cognitive Search, Azure OpenAI Service |
@@ -52,6 +55,7 @@ Repositories providing educational content on AI and machine learning.
 | [AI-For-Beginners](https://github.com/Microsoft/AI-For-Beginners) | Introductory tutorials on machine learning and AI. | Python | Azure Machine Learning |
 | [Data-Science-For-Beginners](https://github.com/Microsoft/Data-Science-For-Beginners) | Introductory data science tutorials with an AI focus. | Python | Azure Machine Learning |
 | [ML-For-Beginners](https://github.com/Microsoft/ML-For-Beginners) | Machine learning curriculum with practical lessons. | Python | Azure Machine Learning |
+| [Web-Dev-For-Beginners](https://github.com/Microsoft/Web-Dev-For-Beginners) | Web development tutorials, potentially with AI-powered apps. | JavaScript | - |
 | [Workshop-Interact-with-OpenAI-models](https://github.com/Microsoft/Workshop-Interact-with-OpenAI-models) | Workshop to interact with OpenAI models. | Python | Azure OpenAI Service |
 
 ### Power Platform Integration
@@ -92,33 +96,18 @@ Repositories demonstrating AI frameworks like Semantic Kernel or LangChain.
 | [ai-samples](https://github.com/dotnet/ai-samples) | Demonstrates AI and machine learning in .NET. | C# | Azure Cognitive Services |
 | [SemanticKernelCookBook](https://github.com/Microsoft/SemanticKernelCookBook) | Demonstrates Semantic Kernel for AI applications. | C# | Azure OpenAI Service |
 | [langchainjs-quickstart-demo](https://github.com/Azure-Samples/langchainjs-quickstart-demo) | Demonstrates using LangChain.js for AI applications. | JavaScript/TypeScript | Azure OpenAI Service |
-
-### Serverless AI
-
-Repositories showcasing serverless AI implementations.
-
-| Repository | Description | Primary Language | Technology |
-|------------|-------------|------------------|------------|
 | [serverless-ai-langchainjs](https://github.com/Azure-Samples/serverless-ai-langchainjs) | Demonstrates a serverless AI app with LangChain.js. | JavaScript/TypeScript | Azure Functions, Azure OpenAI Service |
 
 ### Specialized AI Applications
 
-Repositories for niche AI applications, such as audio search or database assistance.
+Repositories for more specialized AI applications, such as audio search or database assistance.
 
 | Repository | Description | Primary Language | Technology |
 |------------|-------------|------------------|------------|
 | [azure-devops-release-notes](https://github.com/Azure-Samples/azure-devops-release-notes) | Generates release notes for Azure DevOps using AI. | Python | Azure OpenAI Service |
-| [azure-openai-rag-workshop](https://github.com/Azure-Samples/azure-openai-rag-workshop) | Workshop to build a RAG application using Azure OpenAI. | Python | Azure OpenAI Service |
 | [agent-openai-python-prompty](https://github.com/Azure-Samples/agent-openai-python-prompty) | Demonstrates an AI agent using OpenAI and Prompty. | Python | Azure OpenAI Service |
-| [aisearch-openai-rag-audio](https://github.com/Azure-Samples/aisearch-openai-rag-audio) | Demonstrates audio search using AI and RAG techniques. | Python | Azure Cognitive Services, Azure OpenAI Service |
 | [copilot-pg](https://github.com/Microsoft/copilot-pg) | AI-powered extension for PostgreSQL to assist DBAs. | C | PostgreSQL |
 | [Fabric-Readiness](https://github.com/Microsoft/Fabric-Readiness) | Toolkit to assess readiness for Microsoft Fabric with AI capabilities. | PowerShell | Microsoft Fabric |
 | [aks-store-demo](https://github.com/Azure-Samples/aks-store-demo) | Microservices app for AKS demos, potentially with AI components. | C#, Python | Azure Kubernetes Service |
 | [carbon-aware-keda-operator](https://github.com/Azure/carbon-aware-keda-operator) | Operator for carbon-aware scaling with KEDA, potentially using AI. | Go | KEDA |
-| [openai-dotnet-samples](https://github.com/Azure-Samples/openai-dotnet-samples) | Samples for OpenAI in .NET, including specialized applications. | C# | Azure OpenAI Service |
-| [Web-Dev-For-Beginners](https://github.com/Microsoft/Web-Dev-For-Beginners) | Web development tutorials, potentially with AI-powered apps. | JavaScript | - |
 | [cli-microsoft365](https://github.com/pnp/cli-microsoft365) | CLI tool for Microsoft 365, potentially for AI-driven workflows. | JavaScript/TypeScript | Microsoft 365 |
-
----
-
-*Note*: Some repositories (e.g., [MicrosoftCloud](https://github.com/Microsoft/MicrosoftCloud), [Security-101](https://github.com/Microsoft/Security-101)) were excluded as they are primarily documentation-focused without clear AI code implementations tied to a specific use case.
