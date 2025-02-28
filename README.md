@@ -2,7 +2,7 @@
 
 This README aggregates Microsoft AI-related repositories, organized by AI use case to help users find relevant examples quickly. Each section contains a table with: Repository name (linked to GitHub), Description (emphasizing AI aspects), Primary Language, and Technology (Microsoft products or Azure services used). Use the Searchable Index below to jump to sections based on your interests.
 
-## Searchable Index
+## Index
 
 - **Python:** See [Generative AI](#generative-ai), [Semantic Search](#semantic-search), [Chatbot Development](#chatbot-development), [AI Learning](#ai-learning), [Specialized AI Applications](#specialized-ai-applications).
 - **C#:** See [Semantic Search](#semantic-search), [Chatbot Development](#chatbot-development), [Power Platform Integration](#power-platform-integration), [AI Frameworks](#ai-frameworks).
