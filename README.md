@@ -1,5 +1,7 @@
 # 🤖 Microsoft AI Repositories: A Curated Guide by Use Case, Language, and Technology
 
+![Microsoft AI Repositories Header](header.webp)
+
 This repo aggregates Microsoft AI-related repositories, organized by AI use case to simplify the process of finding examples quickly. Each section contains a table with: Repository name (linked to GitHub), Description (emphasizing AI aspects), Primary Language, and Technology (Microsoft products or Azure services used). Use the Searchable Index below to jump to sections based on your interests.
 
 ## 📇 Index
