@@ -12,7 +12,7 @@ This repo aggregates Microsoft AI-related repositories, organized by AI use case
 - **Azure OpenAI Service:** See [Generative AI](#generative-ai), [RAG (Retrieval-Augmented Generation)](#rag-retrieval-augmented-generation), [Chatbot Development](#chatbot-development), [Serverless AI](#serverless-ai).
 - **Power Platform:** See [Power Platform Integration](#power-platform-integration).
 - **SharePoint Framework:** See [SharePoint & Teams Integration](#sharepoint--teams-integration).
-- **Specialized Technologies (e.g., PostgreSQL, KEDA):** See [Specialized AI Applications](#specialized-ai-applications).
+- **Specialized Technologies (e.g., DevOps, KEDA):** See [Specialized AI Applications](#specialized-ai-applications).
 
 ## 🚀 AI Use Cases
 
@@ -87,6 +87,7 @@ Repositories exploring GitHub Copilot, an AI pair programming tool.
 | Repository | Description | Primary Language | Technology |
 |------------|-------------|------------------|------------|
 | [CopilotAdventures](https://github.com/Microsoft/CopilotAdventures) | Interactive game to learn about GitHub Copilot. | JavaScript | GitHub Copilot |
+| [copilot-pg](https://github.com/Microsoft/copilot-pg) | AI-powered extension for PostgreSQL to assist DBAs. | JavaScript | PostgreSQL |
 | [Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/Microsoft/Mastering-GitHub-Copilot-for-Paired-Programming) | Tutorials for mastering GitHub Copilot for paired programming. | Documentation | GitHub Copilot |
 
 ### 🛠️ AI Frameworks
@@ -108,7 +109,6 @@ Repositories for more specialized AI applications, such as audio search or datab
 |------------|-------------|------------------|------------|
 | [azure-devops-release-notes](https://github.com/Azure-Samples/azure-devops-release-notes) | Generates release notes for Azure DevOps using AI. | Python | Azure OpenAI Service |
 | [agent-openai-python-prompty](https://github.com/Azure-Samples/agent-openai-python-prompty) | Demonstrates an AI agent using OpenAI and Prompty. | Python | Azure OpenAI Service |
-| [copilot-pg](https://github.com/Microsoft/copilot-pg) | AI-powered extension for PostgreSQL to assist DBAs. | C | PostgreSQL |
 | [Fabric-Readiness](https://github.com/Microsoft/Fabric-Readiness) | Toolkit to assess readiness for Microsoft Fabric with AI capabilities. | PowerShell | Microsoft Fabric |
 | [aks-store-demo](https://github.com/Azure-Samples/aks-store-demo) | Microservices app for AKS demos, potentially with AI components. | C#, Python | Azure Kubernetes Service |
 | [carbon-aware-keda-operator](https://github.com/Azure/carbon-aware-keda-operator) | Operator for carbon-aware scaling with KEDA, potentially using AI. | Go | KEDA |
